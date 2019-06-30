@@ -11,3 +11,8 @@ cd flutter_build_dockerfile
 
 then build the image
 docker build .
+
+you can pull and use my pre build imige
+
+docker pull alimiracle/flutter
+
